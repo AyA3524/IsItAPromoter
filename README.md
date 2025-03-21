@@ -6,9 +6,14 @@ This project focuses on classifying DNA sequences as promoters or non-promoters 
 Key features:
 
 CNN for feature extraction from DNA sequences
+
 BiLSTM to capture long-range dependencies in the sequence
+
 Attention mechanism to focus on crucial sequence patterns
+
 Data augmentation to improve model generalization
+
 Evaluation metrics: accuracy, precision, recall, and loss analysis
+
 
 This repository contains the dataset preprocessing pipeline, model architecture, training scripts, and evaluation results.
